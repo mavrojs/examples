@@ -1,0 +1,12 @@
+{
+  "name": "mavro-examples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "app:hello-world": "node hello-word/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
