@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "app:hello-world": "node hello-word/index.js"
+    "app:hello-world": "node hello-world/index.js"
   },
   "keywords": [],
   "author": "",

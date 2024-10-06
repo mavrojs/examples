@@ -6,8 +6,7 @@
 # Running tests
 
 ```bash
-npm test
-npm run lint
+npm app:hello-world # testing (hello-world)
 ```
 
 ## Included Examples
